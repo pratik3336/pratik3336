@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodersera.com%2Fblog%2Fdata-science-projects%2F&psig=AOvVaw0icaKs-Z7dZ_e7kPUXfdgs&ust=1690424926236000&source=images&cd=vfe&opi=89978449&ved=0CAwQjRxqFwoTCPDM09upq4ADFQAAAAAdAAAAABAY">
 
 - 👋 Hi, I’m @Pratik Poojari 
 - 👀 I’m interested in data science and analysis
