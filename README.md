@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.dreamstime.com/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-image145015243">
+<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg">
 
 - 👋 Hi, I’m @Pratik Poojari 
 - 👀 I’m interested in data science and analysis
