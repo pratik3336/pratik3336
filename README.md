@@ -1,5 +1,5 @@
 
-<img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="centre" alt="Coding" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 👋 Hi, I’m @Pratik Poojari 
