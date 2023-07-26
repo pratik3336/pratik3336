@@ -1,4 +1,7 @@
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 - 👋 Hi, I’m @Pratik Poojari 
 - 👀 I’m interested in data science and analysis
 - 🌱 I’m currently learning  python and tableau
