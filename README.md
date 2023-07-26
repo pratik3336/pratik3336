@@ -1,6 +1,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+https://mps.rutgers.edu/images/slides/DATA_SCIENCE_AdobeStock-294794307.jpg
 
 - 👋 Hi, I’m @Pratik Poojari 
 - 👀 I’m interested in data science and analysis
