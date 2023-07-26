@@ -1,8 +1,8 @@
 
-<img align="centre" alt="Coding" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👋 Hi, I’m @Pratik Poojari 
+- 👋 Hi, I’m <b> @Pratik Poojari </b>
 - 👀 I’m interested in data science and analysis
 - 🌱 I’m currently learning  python and tableau
 - 💞️ I’m looking to collaborate on data science projects 
