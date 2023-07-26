@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png">
+<img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40DataScienceLens%2Fdata-science-from-scratch-a4916bb7ea6c&psig=AOvVaw3PiTpCAz0Tl5PoUik86Szr&ust=1690425116551000&source=images&cd=vfe&opi=89978449&ved=0CAwQjRxqFwoTCOD1vraqq4ADFQAAAAAdAAAAABAQ">
 
 - 👋 Hi, I’m @Pratik Poojari 
 - 👀 I’m interested in data science and analysis
