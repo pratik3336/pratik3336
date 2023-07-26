@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m <b> @Pratik Poojari </b>
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning  python and tableau
-- 💞️ I’m looking to collaborate on data science projects 
+- 👀 I’m interested in Data science and Data Visualization and Analysis
+- 🌱 I’m currently learning  Python and Tableau
+- 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me (https://www.linkedin.com/in/pratik-poojari-173707173/ )
 
 
