@@ -44,7 +44,13 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff34428aa0cac52a6e2270085526dac42becf14bff6d3e4182cc8e69d26f9aeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ff34428aa0cac52a6e2270085526dac42becf14bff6d3e4182cc8e69d26f9aeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" alt="Jira" data-canonical-src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&amp;logo=jira&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/pratik3336/count.svg"><img src="https://profile-counter.glitch.me/pratik3336/count.svg" alt="VisitorCount" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/pratik3336/count.svg">
+    <img src="https://profile-counter.glitch.me/pratik3336/count.svg" alt="VisitorCount" style="max-width: 100%;">
+  </a>
+</p>
+Note: Counter visually starts from 100.
+ile-counter.glitch.me/pratik3336/count.svg" alt="VisitorCount" style="max-width: 100%;"></a></p>
 
 
 
