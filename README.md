@@ -2,10 +2,17 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👋 Hi, I’m <b> @Pratik Poojari </b>
-- 👀 I’m interested in Data science and Data Visualization and Analysis
-- 🌱 I’m currently learning  Python and Tableau
-- 💞️ I’m looking to collaborate on Data Science Projects 
+# Welcome to My GitHub Portfolio!
+
+Hello! I'm an enthusiast in the fields of Business Intelligence and Data Engineering with a deep passion for transforming raw data into meaningful insights. The art of solving complex real-world problems through critical thinking and innovation has always fascinated me. I believe that timely action can lead to impactful results.
+
+## What I'm up to:
+- 🔭 **Exploring Opportunities**: I'm on the lookout for Internships/Co-ops and full-time positions that challenge me and allow me to grow. If you're hiring or know someone who is, let's connect!
+- 👯 **Collaboration**: I'm eager to collaborate on projects related to Business Intelligence, Data Analysis, Data Engineering, Data Warehousing, and Data Science. If you're working on something exciting in these areas, I'd love to hear about it.
+
+## Let's Connect!
+If you have any questions or want to discuss potential opportunities or collaborations, please feel free to reach out. Together, we can discover how data can unlock new insights and solutions.
+
 - 📫 How to reach me (https://www.linkedin.com/in/pratik-poojari-173707173/ )
 
 
