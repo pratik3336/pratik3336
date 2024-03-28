@@ -4,7 +4,7 @@
 
 # Welcome to My GitHub Portfolio!
 
-Hello! I'm an enthusiast in the fields of Business Intelligence and Data Engineering with a deep passion for transforming raw data into meaningful insights. The art of solving complex real-world problems through critical thinking and innovation has always fascinated me. I believe that timely action can lead to impactful results.
+Hello! I'm an enthusiast in the fields of Data Analysis and Data Engineering with a deep passion for transforming raw data into meaningful insights.
 
 ## What I'm up to:
 - 🔭 **Exploring Opportunities**: I'm on the lookout for Internships/Co-ops and full-time positions that challenge me and allow me to grow. If you're hiring or know someone who is, let's connect!
