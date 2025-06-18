@@ -6,6 +6,8 @@
 
 Hello! I'm an enthusiast in the fields of Data Analysis and Data Engineering with a deep passion for transforming raw data into meaningful insights.
 
+💼 Past: Research Assistant @ Northeastern | Data Analyst Intern @ Ideal Transport and EDUrain | SWE Intern @ IIT Bombay
+
 ## What I'm up to:
 - 🔭 **Exploring Opportunities**: I'm on the lookout for Full-time positions that challenge me and allow me to grow. If you're hiring or know someone who is, let's connect!
 - 👯 **Collaboration**: I'm eager to collaborate on projects related to Business Intelligence, Data Analysis, Data Engineering, Data Warehousing, and Data Science. If you're working on something exciting in these areas, I'd love to hear about it.
