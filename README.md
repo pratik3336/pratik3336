@@ -36,12 +36,6 @@ If you have any questions or want to discuss potential opportunities or collabor
 ![Profile Views](https://komarev.com/ghpvc/?username=pratik3336&label=Visitors&color=brightgreen&style=flat)
 
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik3336&show_icons=true&locale=en&layout=compact" alt="pratik3336">
-
-
 <!---
 pratik3336/pratik3336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
