@@ -39,7 +39,16 @@ https://www.linkedin.com/in/pratik-poojari-173707173/
 
 ## Contribution Activity
 
-![snake gif](https://github.com/pratik3336/pratik3336/blob/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratik3336)
+
+
+## 📊 GitHub Analytics
+
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratik3336&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik3336&layout=compact)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratik3336&label=Visitors&color=brightgreen&style=flat)
