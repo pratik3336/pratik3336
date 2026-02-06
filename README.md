@@ -29,7 +29,7 @@ Transforming **data → insights → business impact** through dashboards, analy
 ✔ Data Visualization (Tableau • Power BI • Excel)  
 ✔ Predictive & Business Analytics  
 
-<img align="right" width="350" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/user-attachments/assets/ddc0dad2-ffea-4fb8-9112-a4692926ba00)">
+![Data-Website-Analytics](https://github.com/user-attachments/assets/63b891e4-7238-40bc-92a2-1d3acf5c82f8)
 
 
 
