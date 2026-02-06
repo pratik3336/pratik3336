@@ -22,9 +22,23 @@ Transforming **data → insights → business impact** through dashboards, analy
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38"/>
 </p>
 
-📊 Dashboards • Data Pipelines • KPI Analytics • ML Insights  
+## 📊 Data Analytics in Action
+
+✔ BI Dashboards & KPI Tracking  
+✔ SQL Analytics & Warehousing  
+✔ Data Visualization (Tableau • Power BI • Excel)  
+✔ Predictive & Business Analytics  
+
+<img width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/pratik-poojari-173707173/
+
+---
+
+## Contribution Activity
+
+![snake gif](https://github.com/pratik3336/pratik3336/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratik3336&label=Visitors&color=brightgreen&style=flat)
