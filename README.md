@@ -29,7 +29,9 @@ Transforming **data → insights → business impact** through dashboards, analy
 ✔ Data Visualization (Tableau • Power BI • Excel)  
 ✔ Predictive & Business Analytics  
 
-<img width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="350" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/user-attachments/assets/ddc0dad2-ffea-4fb8-9112-a4692926ba00)">
+
+
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/pratik-poojari-173707173/
