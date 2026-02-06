@@ -36,6 +36,8 @@ Transforming **data → insights → business impact** through dashboards, analy
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/pratik-poojari-173707173/
 
+<img align="right" width="350" src="https://github.com/user-attachments/assets/63b891e4-7238-40bc-92a2-1d3acf5c82f8"/>
+
 ---
 
 ## Contribution Activity
